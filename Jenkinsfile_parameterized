@@ -32,7 +32,7 @@ pipeline {
                 script {
                     
 				    // Let's clone the source
-                     url: 'https://github.com/betawins/parametirize-job.git';
+                      'https://github.com/betawins/parametirize-job.git';
                    
                 } 
             }
